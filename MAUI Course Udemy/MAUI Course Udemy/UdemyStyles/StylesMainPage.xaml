@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_Course_Udemy.UdemyStyles.StylesMainPage"
+             Title="StylesMainPage">
+    <ContentPage.Resources>
+        
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Button 
+                Text="LOGIN" 
+                Style="{StaticResource buttonStyle}" />
+            <Button 
+                Text="VISIT WEBSITE"
+                Style="{StaticResource specialButton}" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

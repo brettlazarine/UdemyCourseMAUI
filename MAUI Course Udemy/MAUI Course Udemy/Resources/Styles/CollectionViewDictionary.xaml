@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-comp compile="true" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModels="clr-namespace:MAUI_Course_Udemy.UdemyMasteringCollectionView.MVVM.ViewModels">
+
+    <DataTemplate
+        x:Key="ProductStyle">
+        <SwipeView>
+            <SwipeView.LeftItems>
+                <SwipeItems>
+                    <SwipeItem
+                        BackgroundColor="DarkRed"
+                        Command="{Binding Source={RelativeSource AncestorType={x:Type ViewModels:DataViewModel}}, Path=DeleteCommand}" 
+                        CommandParameter="{Binding}"
+                        IconImageSource="trash"/>
+                </SwipeItems>
+            </SwipeView.LeftItems>
+            
+            <Grid
+                ColumnDefinitions=".1*, .2*, .7*"
+                RowDefinitions="*, *"
+                Margin="15, 10, 15, 0">
+
+                <Frame
+                            Grid.RowSpan="2"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="2"
+                            BorderColor="White">
+                    <Frame.Background>
+                        <LinearGradientBrush
+                                    EndPoint="1, 0">
+                            <GradientStop
+                                        Offset="0"
+                                        Color="#F8F9FA" />
+                            <GradientStop
+                                        Offset="1"
+                                        Color="#DEE2E6" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                </Frame>
+
+                <Image
+                            Grid.RowSpan="2"
+                            Grid.ColumnSpan="2"
+                            HeightRequest="100"
+                            Source="{Binding Image}" />
+
+                <Label
+                            Grid.Column="2"
+                            Grid.Row="0"
+                            FontSize="Large"
+                            VerticalOptions="Center"
+                            Text="{Binding Name}" />
+                <Label
+                            Grid.Column="2"
+                            Grid.Row="1"
+                            FontSize="Large"
+                            VerticalOptions="Center"
+                            Text="{Binding Price, StringFormat='{0:C}'}" />
+            </Grid>
+        </SwipeView>
+    </DataTemplate>
+
+    <DataTemplate
+        x:Key="OfferStyle">
+        <Grid
+            ColumnDefinitions=".3*, .7*"
+            RowDefinitions="*, *"
+            Margin="15, 10, 15, 0"
+            HeightRequest="200">
+            <Frame
+                Grid.RowSpan="2"
+                Grid.ColumnSpan="2"
+                BorderColor="White">
+                <Frame.Background>
+                    <LinearGradientBrush
+                        EndPoint="1, 0">
+                        <GradientStop
+                            Offset="0"
+                            Color="#FFBF47" />
+                        <GradientStop
+                            Offset="1"
+                            Color="#EEB54C" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+            </Frame>
+
+            <Image
+                Grid.RowSpan="2"
+                HeightRequest="100"
+                Source="{Binding Image}" />
+
+            <Label
+                Grid.Column="2"
+                Grid.Row="0"
+                FontSize="Title"
+                FontAttributes="Bold"
+                TextColor="White"
+                VerticalOptions="Center"
+                Text="{Binding Name, StringFormat='OFFER: {0}'}" />
+            <Label
+                Grid.Column="2"
+                Grid.Row="1"
+                FontSize="Title"
+                FontAttributes="Bold"
+                TextColor="White"
+                VerticalOptions="Center"
+                Text="{Binding Price, StringFormat='{0:C}'}">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span 
+                            Text="{Binding OfferPrice, StringFormat='{0:C}'}" />
+                        <Span 
+                            Text="{Binding Price, StringFormat='{0:C}'}" 
+                            TextDecorations="Strikethrough" 
+                            TextColor="DarkRed" />
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </Grid>
+    </DataTemplate>
+</ResourceDictionary>

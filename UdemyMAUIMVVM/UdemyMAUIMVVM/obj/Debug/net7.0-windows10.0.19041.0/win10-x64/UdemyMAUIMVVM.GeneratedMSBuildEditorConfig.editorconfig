@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UdemyMAUIMVVM
+build_property.ProjectDir = C:\Udemy\MAUI\UdemyMAUIMVVM\UdemyMAUIMVVM\
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/MVVM/Views/CommandsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.MVVM.Views.CommandsView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\CommandsView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\CommandsView.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/MVVM/Views/ConvertersView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.MVVM.Views.ConvertersView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ConvertersView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ConvertersView.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/MVVM/Views/PeopleView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.MVVM.Views.PeopleView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PeopleView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PeopleView.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/MVVM/Views/PersonView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.MVVM.Views.PersonView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PersonView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PersonView.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Udemy/MAUI/UdemyMAUIMVVM/UdemyMAUIMVVM/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UdemyMAUIMVVM.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

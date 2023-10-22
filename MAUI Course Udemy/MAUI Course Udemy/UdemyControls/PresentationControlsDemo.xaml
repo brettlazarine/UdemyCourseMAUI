@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_Course_Udemy.PresentationControlsDemo"
+             Title="PresentationControlsDemo">
+    <VerticalStackLayout>
+        <BoxView 
+            BackgroundColor="Black" 
+            HeightRequest="200" />
+
+        <Label Text="XAMARIN" TextColor="Black"
+               FontAttributes="Bold"
+               FontSize="Large"
+               HorizontalTextAlignment="Center" />
+
+        <Ellipse Fill="darkred"
+                 Stroke="darkgreen"
+                 StrokeThickness="10"
+                 HeightRequest="200"
+                 WidthRequest="200" 
+                 HorizontalOptions="Center"/>
+
+        <Line Stroke="black"
+              X1="0"
+              Y1="0"
+              X2="100"
+              Y2="50"
+              StrokeThickness="10" />
+
+        <Rectangle Fill="darkred"
+                   Stroke="black"
+                   StrokeThickness="5"
+                   HeightRequest="50"
+                   WidthRequest="150"
+                   HorizontalOptions="End"
+                   RadiusX="10"
+                   RadiusY="10" />
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,264 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MAUI_Course_Udemy
+build_property.ProjectDir = C:\Udemy\MAUI\UdemyCourseMAUI\MAUI Course Udemy\MAUI Course Udemy\
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/Pages/BindingModes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.Pages.BindingModes.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\BindingModes.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\BindingModes.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/Pages/SliderPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.Pages.SliderPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SliderPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SliderPage.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/Resources/Styles/ButtonStyle.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.Resources.Styles.ButtonStyle.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\ButtonStyle.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\ButtonStyle.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/Resources/Styles/CollectionViewDictionary.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.Resources.Styles.CollectionViewDictionary.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\CollectionViewDictionary.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\CollectionViewDictionary.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyConsumingRESTServices/MainView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyConsumingRESTServices.MainView.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyConsumingRESTServices\MainView.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyConsumingRESTServices\MainView.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyControls/ActivityControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyControls.ActivityControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyControls\ActivityControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyControls\ActivityControlsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyControls/CollectionsControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyControls.CollectionsControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyControls\CollectionsControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyControls\CollectionsControlsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyControls/CommandsControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyControls.CommandsControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyControls\CommandsControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyControls\CommandsControlsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyControls/InputControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyControls.InputControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyControls\InputControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyControls\InputControlsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyControls/PresentationControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyControls.PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyControls\PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyControls\PresentationControlsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyControls/TextControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyControls.TextControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyControls\TextControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyControls\TextControlsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyDataBinding/FirstBindingDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyDataBinding.FirstBindingDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyDataBinding\FirstBindingDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyDataBinding\FirstBindingDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyDataBinding/NotifyInterfaceDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyDataBinding.NotifyInterfaceDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyDataBinding\NotifyInterfaceDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyDataBinding\NotifyInterfaceDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyExternalResources/WorkingWIthFontIconsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyExternalResources.WorkingWIthFontIconsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyExternalResources\WorkingWIthFontIconsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyExternalResources\WorkingWIthFontIconsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyExternalResources/WorkingWithFontsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyExternalResources.WorkingWithFontsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyExternalResources\WorkingWithFontsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyExternalResources\WorkingWithFontsDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyExternalResources/WorkingWithImagesDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyExternalResources.WorkingWithImagesDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyExternalResources\WorkingWithImagesDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyExternalResources\WorkingWithImagesDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyExternalResources/WorkingWithOtherFileTypesDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyExternalResources.WorkingWithOtherFileTypesDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyExternalResources\WorkingWithOtherFileTypesDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyExternalResources\WorkingWithOtherFileTypesDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyLayouts/AbsoluteLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyLayouts.AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyLayouts\AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyLayouts\AbsoluteLayoutDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyLayouts/FlexLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyLayouts.FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyLayouts\FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyLayouts\FlexLayoutDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyLayouts/GridLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyLayouts.GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyLayouts\GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyLayouts\GridLayoutDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyLayouts/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyLayouts.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyLayouts\HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyLayouts\HorizontalStackLayoutDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyLayouts/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyLayouts.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyLayouts\StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyLayouts\StackLayoutDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyLayouts/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyLayouts.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyLayouts\VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyLayouts\VerticalStackLayoutDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyMasteringCollectionView/MVVM/Views/DataView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyMasteringCollectionView.MVVM.Views.DataView.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyMasteringCollectionView\MVVM\Views\DataView.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyMasteringCollectionView\MVVM\Views\DataView.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyMasteringCollectionView/MVVM/Views/EmptyView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyMasteringCollectionView.MVVM.Views.EmptyView.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyMasteringCollectionView\MVVM\Views\EmptyView.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyMasteringCollectionView\MVVM\Views\EmptyView.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyMasteringCollectionView/MVVM/Views/LayoutsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyMasteringCollectionView.MVVM.Views.LayoutsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyMasteringCollectionView\MVVM\Views\LayoutsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyMasteringCollectionView\MVVM\Views\LayoutsPage.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyMasteringCollectionView/MVVM/Views/ProductsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyMasteringCollectionView.MVVM.Views.ProductsView.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyMasteringCollectionView\MVVM\Views\ProductsView.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyMasteringCollectionView\MVVM\Views\ProductsView.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyNavigation/MVVM/Views/CoolPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyNavigation.MVVM.Views.CoolPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyNavigation\MVVM\Views\CoolPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyNavigation\MVVM\Views\CoolPage.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyNavigation/MVVM/Views/FinalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyNavigation.MVVM.Views.FinalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyNavigation\MVVM\Views\FinalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyNavigation\MVVM\Views\FinalPage.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyNavigation/MVVM/Views/Page2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyNavigation.MVVM.Views.Page2.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyNavigation\MVVM\Views\Page2.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyNavigation\MVVM\Views\Page2.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyNavigation/MVVM/Views/StartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyNavigation.MVVM.Views.StartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyNavigation\MVVM\Views\StartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyNavigation\MVVM\Views\StartPage.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyPages/ContentPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyPages.ContentPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyPages\ContentPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyPages\ContentPageDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyPages/FlyoutPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyPages.FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyPages\FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyPages\FlyoutPageDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyPages/TabbedPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyPages.TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyPages\TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyPages\TabbedPageDemo.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyStyles/DynamicStylesView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyStyles.DynamicStylesView.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyStyles\DynamicStylesView.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyStyles\DynamicStylesView.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyStyles/StylesMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyStyles.StylesMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyStyles\StylesMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyStyles\StylesMainPage.xaml
+
+[C:/Udemy/MAUI/UdemyCourseMAUI/MAUI Course Udemy/MAUI Course Udemy/UdemyStyles/StylesView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Course_Udemy.UdemyStyles.StylesView.xaml
+build_metadata.AdditionalFiles.TargetPath = UdemyStyles\StylesView.xaml
+build_metadata.AdditionalFiles.RelativePath = UdemyStyles\StylesView.xaml

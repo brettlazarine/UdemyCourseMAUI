@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_Course_Udemy.UdemyDataBinding.NotifyInterfaceDemo"
+             Title="NotifyInterfaceDemo">
+    <VerticalStackLayout
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+
+        <Entry 
+            FontSize="50"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Text="{Binding Name}" />
+        <Entry 
+            FontSize="50"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Text="{Binding Phone}" />
+        <Entry 
+            FontSize="50"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Text="{Binding Address}" />
+
+        <Button
+                x:Name="CounterBtn"
+                Text="Click Me"
+                SemanticProperties.Hint="TBD"
+                HorizontalOptions="Center"
+                Clicked="OnCounterClicked" />
+    </VerticalStackLayout>
+</ContentPage>

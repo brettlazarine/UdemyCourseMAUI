@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_Course_Udemy.UdemyExternalResources.WorkingWIthFontIconsDemo"
+             Title="WorkingWIthFontIconsDemo">
+    <VerticalStackLayout BackgroundColor="Black">
+        <Image>
+            <Image.Source>
+                <FontImageSource
+                    FontFamily="fontello"
+                    Glyph="&#xE810;"
+                    Size="50" />
+            </Image.Source>
+        </Image>
+    </VerticalStackLayout>
+</ContentPage>

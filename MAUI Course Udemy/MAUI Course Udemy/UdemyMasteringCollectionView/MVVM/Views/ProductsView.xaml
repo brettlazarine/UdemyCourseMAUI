@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_Course_Udemy.UdemyMasteringCollectionView.MVVM.Views.ProductsView"
+             Title="ProductsView">
+
+    <Grid
+        RowDefinitions=".1*, .9*">
+
+        <Button
+            Text="Manual Scrolling"
+            Clicked="Button_Clicked" />
+        <CollectionView
+            x:Name="collectionView"
+            IsGrouped="True"
+            ItemsSource="{Binding Products}"
+            Scrolled="CollectionView_Scrolled"
+            Grid.Row="1"
+            ItemsUpdatingScrollMode="KeepLastItemInView">
+
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout
+                Orientation="Vertical"
+                ItemSpacing="10" 
+                SnapPointsType="MandatorySingle"
+                SnapPointsAlignment="Start"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame
+                    BackgroundColor="White"
+                    CornerRadius="15">
+
+                        <VerticalStackLayout>
+                            <Label
+                                Text="{Binding Id}" />
+                            <Label
+                            Text="{Binding Name}" />
+                            <Label
+                            Text="{Binding Price}" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+            <CollectionView.GroupHeaderTemplate>
+                <DataTemplate>
+                    <Label 
+                    BackgroundColor="LightGray"
+                    FontAttributes="Bold"
+                    FontSize="Large" 
+                    TextColor="Black"
+                    Text="{Binding Name}"/>
+                </DataTemplate>
+            </CollectionView.GroupHeaderTemplate>
+
+            <CollectionView.GroupFooterTemplate>
+                <DataTemplate>
+                    <Label 
+                    Text="{Binding Count, StringFormat='Total Products: {0:D}'}"
+                    Margin="0, 0, 0, 10"
+                    TextColor="MidnightBlue"/>
+                </DataTemplate>
+            </CollectionView.GroupFooterTemplate>
+        </CollectionView>
+    </Grid>
+    
+    
+</ContentPage>

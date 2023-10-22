@@ -1,0 +1,1 @@
+C:\Udemy\MAUI\UdemyMAUIMVVM\UdemyMAUIMVVM\UdemyMAUIMVVM.csproj;x64
