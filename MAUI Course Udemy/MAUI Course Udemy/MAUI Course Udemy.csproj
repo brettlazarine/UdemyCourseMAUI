@@ -232,7 +232,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="UdemySQLite\" />
 	  <Folder Include="UdemyNavigation\MVVM\Models\" />
 	</ItemGroup>
 

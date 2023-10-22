@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemy\\MAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj": {}
+    "C:\\Udemy\\MAUI\\UdemyCourseMAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj": {}
   },
   "projects": {
-    "C:\\Udemy\\MAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj": {
+    "C:\\Udemy\\MAUI\\UdemyCourseMAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemy\\MAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj",
+        "projectUniqueName": "C:\\Udemy\\MAUI\\UdemyCourseMAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj",
         "projectName": "UdemyMAUIMVVM",
-        "projectPath": "C:\\Udemy\\MAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj",
+        "projectPath": "C:\\Udemy\\MAUI\\UdemyCourseMAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj",
         "packagesPath": "C:\\Users\\jblaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemy\\MAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\obj\\",
+        "outputPath": "C:\\Udemy\\MAUI\\UdemyCourseMAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

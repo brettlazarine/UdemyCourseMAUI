@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s2Km7e15A33p2TURAz7si0qcM+tCqN5iEZZ5V9+E2OQHfoGdPFAr7han3ihyEJ8/l6r0nqPpJG2CvtqQj2imAQ==",
+  "dgSpecHash": "s3Lb0vCoImZSjtCQ9CQTG+kjm5eQX4elxmNKDtHnjo3PHN+l7S+22CvT9MBMqZoEkURA7KsmSolJH2Q2b+2DSg==",
   "success": true,
-  "projectFilePath": "C:\\Udemy\\MAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj",
+  "projectFilePath": "C:\\Udemy\\MAUI\\UdemyCourseMAUI\\UdemyMAUIMVVM\\UdemyMAUIMVVM\\UdemyMAUIMVVM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jblaz\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
