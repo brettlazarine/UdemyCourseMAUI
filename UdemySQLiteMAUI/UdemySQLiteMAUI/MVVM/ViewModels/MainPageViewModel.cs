@@ -27,7 +27,9 @@ namespace UdemySQLiteMAUI.MVVM.ViewModels
 
             AddOrUpdateCommand = new Command(async () =>
             {
-                App.CustomerRepo.SaveItem(CurrentCustomer);
+                //App.CustomerRepo.SaveItem(CurrentCustomer);
+                App.CustomerRepo.SaveItemWithChildren(CurrentCustomer);
+
                 Console.WriteLine(App.CustomerRepo.StatusMessage);
                 GenerateNewCustomer();
                 Refresh();
@@ -46,6 +48,11 @@ namespace UdemySQLiteMAUI.MVVM.ViewModels
                 .RuleFor(x => x.Name, f => f.Person.FullName)
                 .RuleFor(x => x.Address, f => f.Person.Address.Street)
                 .Generate();
+
+            CurrentCustomer.Passport = new Passport
+            {
+                ExpirationDate = DateTime.Now.AddDays(30),
+            };
         }
 
         private void Refresh()
@@ -53,6 +60,8 @@ namespace UdemySQLiteMAUI.MVVM.ViewModels
             Customers = App.CustomerRepo.GetItems();
 
             //Customers = App.CustomerRepo.Get(x => x.Name.StartsWith("A"));
+
+            var passports = App.PassportsRepo.GetItems();
         }
     }
 }

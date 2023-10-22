@@ -19,7 +19,7 @@ public static class MauiProgram
 
         builder.Services.AddSingleton<BaseRepository<Customer>>();
         builder.Services.AddSingleton<BaseRepository<Order>>();
-
+        builder.Services.AddSingleton<BaseRepository<Passport>>();
 
 #if DEBUG
         builder.Logging.AddDebug();

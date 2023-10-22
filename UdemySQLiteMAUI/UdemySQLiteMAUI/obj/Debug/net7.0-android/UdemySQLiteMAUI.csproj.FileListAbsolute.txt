@@ -981,3 +981,6 @@ C:\Udemy\MAUI\UdemyCourseMAUI\UdemySQLiteMAUI\UdemySQLiteMAUI\obj\Debug\net7.0-a
 C:\Udemy\MAUI\UdemyCourseMAUI\UdemySQLiteMAUI\UdemySQLiteMAUI\obj\Debug\net7.0-android\UdemySQLiteMAUI.csproj.Fody.CopyLocal.cache
 C:\Udemy\MAUI\UdemyCourseMAUI\UdemySQLiteMAUI\UdemySQLiteMAUI\obj\Debug\net7.0-android\UdemySQLiteMAUI.csproj.Fody.RuntimeCopyLocal.cache
 C:\Udemy\MAUI\UdemyCourseMAUI\UdemySQLiteMAUI\UdemySQLiteMAUI\obj\Debug\net7.0-android\android\assets\PropertyChanged.dll
+C:\Udemy\MAUI\UdemyCourseMAUI\UdemySQLiteMAUI\UdemySQLiteMAUI\obj\Debug\net7.0-android\android\assets\Newtonsoft.Json.dll
+C:\Udemy\MAUI\UdemyCourseMAUI\UdemySQLiteMAUI\UdemySQLiteMAUI\obj\Debug\net7.0-android\android\assets\SQLiteNetExtensions.dll
+C:\Udemy\MAUI\UdemyCourseMAUI\UdemySQLiteMAUI\UdemySQLiteMAUI\obj\Debug\net7.0-android\android\assets\SQLiteNetExtensions.pdb

@@ -11,7 +11,6 @@ namespace UdemySQLiteMAUI.Abstractions
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
-        [Column("name"), Indexed, NotNull]
-        public string Name { get; set; }
+
     }
 }

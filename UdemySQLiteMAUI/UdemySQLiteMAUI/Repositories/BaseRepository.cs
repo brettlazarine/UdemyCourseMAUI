@@ -1,4 +1,5 @@
 ﻿using SQLite;
+using SQLiteNetExtensions.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -114,6 +115,11 @@ namespace UdemySQLiteMAUI.Repositories
             {
                 StatusMessage = $"Error: {ex.Message}";
             }
+        }
+
+        public void SaveItemWithChildren(T item, bool recursive = false)
+        {
+            connection.InsertWithChildren(item, recursive);
         }
     }
 }
